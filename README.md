@@ -1,2 +1,3 @@
 # hello-world
  Creation of Read Me for Git Hub introduction
+this is a read me file and creation for my repository in git hub. I am an instructor at Portland Community college teaching in my tenth year and having fun while doing it.
